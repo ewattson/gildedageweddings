@@ -2,7 +2,7 @@
 title: About
 layout: about
 permalink: /about.html
-featured-image: /objects/church1.jpg
+featured-image: /objects/dinner1.jpg
 ---
 
 ## About the team
