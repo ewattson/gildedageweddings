@@ -1,7 +1,7 @@
 ---
 title: Data Management Plan
 layout: about
-permalink /DMP.hdml
+permalink /DMP.html
 ---
 ****Data Management Plan****
 
