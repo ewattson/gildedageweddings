@@ -3,7 +3,8 @@ title: Data Management Plan
 layout: about
 permalink /DMP.hdml
 ---
-##Data Management Plan
+****Data Management Plan****
+
 **Project Description**
 The theme for our collection of data is Gilded Age Weddings, this is referring to weddings during the years of 1870-1920. Weddings have been happening since the beginning of time and are ceremonies meant to solidify and celebrate the love between two people. Although styles are constantly changing and evolving as time passes, many aspects withstand the test of time. Seeing how themes have changed but certain elements have stayed steady highlights what makes a wedding tasteful and timeless. This collection of images displays invitations, dresses, and wedding festivities along with newspaper clippings and music excerpts. It invites the viewer to observe the variety of aspects within a wedding during the glitz and glam of the Gilded Age. All of the collection elements have been pulled from a series of libraries, archives and museums, and aggregators. Our intended audience includes historians, researchers, and wedding enthusiasts. Groups interested in historical fashion, material culture, and social customs will also find value in our collection. Scholars researching the Gilded Age can find our helpful collection for examining gender roles and cultural influence on wedding practices. Those who may choose to plan historically inspired weddings can find value in our collections by drawing inspiration from the timeless elegance of the Gilded Age. Weddings during the Gilded Age attracted many different audiences seeking different purposes, although all will appreciate the extravagance and enduring traditions during the Gilded Age weddings. 
 
