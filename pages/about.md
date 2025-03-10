@@ -3,6 +3,7 @@ title: About
 layout: about
 permalink: /about.html
 ---
+featured-image: church1.jpg
 
 ## About the team
 
