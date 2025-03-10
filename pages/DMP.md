@@ -2,9 +2,6 @@
 title: Data Management Plan
 layout: about
 permalink /DMP.hdml
-display_text,stub,dropdown_parent
-Data Management Plan,/DMP.html,
-DMP,/DMP.html
 ---
 ****Data Management Plan****
 
