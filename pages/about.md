@@ -29,3 +29,7 @@ Thank you to our professors, peers, and institutions that contributed to the cre
 ## Ownership and use
 
 This collection is managed under fair use copyright. The data in this collection can be used for educational purposes without permission from the copyright holder.
+
+## GitHub
+
+The repository retaining to this collection can be viewed here: https://github.com/ewattson/gildedageweddings 
