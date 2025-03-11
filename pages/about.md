@@ -32,4 +32,4 @@ This collection is managed under fair use copyright. The data in this collection
 
 ## GitHub
 
-The repository retaining to this collection can be viewed here: https://github.com/ewattson/gildedageweddings 
+The repository retaining to this collection can be viewed here: [https://github.com/ewattson/gildedageweddings](url) 
