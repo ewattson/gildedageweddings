@@ -24,4 +24,8 @@ This course is centered around the theory and practices of how people who work i
 ## Institutions
 We pulled content from various sources to ensure that our collection was well rounded. This list includes: The New York Public Library, The MET, Newfeilds, The Getty, The University of California Calisphere, Internet Archive, The Art Institute of Chicago, and The Digital Public Library of America.
 
-Thank you to our professors, peers, and institutions that contributed to this collection
+Thank you to our professors, peers, and institutions that contributed to the creation of this collection.
+
+## Ownership and use
+
+This collection is managed under fair use copyright. The data in this collection can be used for educational purposes without permission from the copyright holder.
