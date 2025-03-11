@@ -2,9 +2,9 @@
 title: About
 layout: about
 permalink: /about.html
-featured-image: /objects/dinner1.jpg
+credits: true
 ---
-
+{% include feature/jumbotron.html objectid="/objects/dinner1.jpg" %}
 ## About the team
 
 Ava is studying Public Relations and is the Project Manager. Her role includes managing and organizing our Google Drive, submitting all group assignments to Canvas, and keeping the team up to date with instructor comments and grades on assignments.
